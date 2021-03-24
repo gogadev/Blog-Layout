@@ -1,0 +1,57 @@
+.home {
+  width: 50vw;
+  display: grid;
+  place-items: center;
+  margin: 0.5rem auto;
+  text-align: center;
+}
+
+.title {
+  font-style: italic;
+  font-size: 2.2rem;
+  color: lightgrey;
+  font-weight: 100;
+  margin-top: 5rem;
+}
+
+.text_1 {
+  text-align: justify;
+}
+
+.text_2,
+.text_3 {
+  width: 100%;
+  text-align: justify;
+  margin: 0.5rem auto;
+  padding-left: 1.5rem;
+}
+
+.text_3 {
+  padding-left: 3rem;
+}
+
+.underline img {
+  width: 50%;
+  opacity: 0.1;
+}
+
+.home-img img {
+  width: 40%;
+}
+
+.home-section {
+  position: absolute;
+  top: 13%;
+  left: 39%;
+}
+
+.home-section .home-text {
+  font-size: 1.3rem;
+}
+
+.author_img {
+  margin-top: 2.5rem;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
